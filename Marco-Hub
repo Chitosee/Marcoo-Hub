@@ -9,9 +9,9 @@ local player = Players.LocalPlayer
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🤍 MARCOO HUB 🤍",
-   LoadingTitle = "MARCOO HUB",
-   LoadingSubtitle = "by Marcoo",
+   Name = "💫 Naoko Hub 💫",
+   LoadingTitle = "Naoko Hub",
+   LoadingSubtitle = "by Naoko",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = "MarcooHub",
